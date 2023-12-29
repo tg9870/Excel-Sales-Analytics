@@ -1,45 +1,46 @@
 # Excel-Sales-Analytics
 ## Sales Report :
 
+- **Project Goal:**
 
-- **Project objective:** 
+1. Develop a comprehensive customer performance report.
 
-    **1.** Create a _[customer performance report](https://github.com/tg9870/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)_ 
+2. Execute a thorough analysis contrasting market performance with sales targets.
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/tg9870/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_
+- **Objective of Sales Analytics:**
+Strengthen businesses by providing a means to scrutinize and assess their sales endeavors and accomplishments.
 
-- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
+- **Significance of Sales Data Analysis:**
+Uncover sales trends and monitor pivotal Key Performance Indicators (KPIs).
 
-- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
-
-- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+- **Role of Reports:**
+Ascertain optimal customer discounts, streamline negotiations with clients, and pinpoint potential avenues for business expansion, particularly in promising international markets.
 
 
 ## Finance Report :
 
-- **Project objective:** 
+- **Project Objective:**
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/tg9870/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/tg9870/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
+    **1.** Generate Profit and Loss (P&L) reports for _[Fiscal Year](https://github.com/tg9870/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/tg9870/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)_.
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/tg9870/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+   **2.** Develop Profit and Loss (P&L) reports categorized by _[Markets](https://github.com/tg9870/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)_.
 
-- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+- **Purpose of Sales Analytics:** Assess financial performance, facilitate decision-making, and enhance communication with stakeholders.
 
-- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
+- **Importance of Analyzing Financial Data:** Support benchmarking against industry peers and past periods, forming the foundation for budgeting and forecasting.
 
-- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
-
+- **Role of Reports:** Align financial planning with strategic goals and instill confidence in the organization's financial outlook.
 
 ## Technical & Soft Skills:
-- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
-- [x]	Skills to generate a date table using Power Query.
-- [x]	Ability to derive fiscal months and quarters.
-- [x]	Establishing data model relationships with Power Pivot.
-- [x]	Proficiency in incorporating supplementary data into an existing data model.
-- [x]	Utilizing DAX to create calculated columns.
+- [x] Proficient in ETL methodology (Extract, Transform, Load).
+- [x] Capable of generating a date table using Power Query.
+- [x] Skilled in deriving fiscal months and quarters.
+- [x] Experienced in establishing data model relationships with Power Pivot.
+- [x] Proficient in incorporating supplementary data into an existing data model.
+- [x] Competent in utilizing DAX to create calculated columns.
 
 ## Soft Skills:
-- [x]	Refined understanding of Sales & Finance Reports
-- [x]	Designing user-centric reports with empathy in mind.
-- [x]	Optimization of report generation through meticulous fine-tuning.
-- [x]	Developing a systematic approach to devising a report building plan.
+- [x] Demonstrates a refined understanding of Sales & Finance Reports.
+- [x] Designs user-centric reports with empathy in mind.
+- [x] Optimizes report generation through meticulous fine-tuning.
+- [x] Develops a systematic approach to devising a report-building plan.
